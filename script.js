@@ -77,12 +77,10 @@ function declareWinner(playerSelection, computerSelection) {
 }
 
 function game() {
-    
-    for(let i = 0; i<5; i++) {
-        let playerSelection = getPlayerSelection();
-        let computerSelection = getComputerSelection();
+        let playerSelection ;
+        let computerSelection ;
         console.log(declareWinner(playerSelection, computerSelection));
-    }
+    
     if (playerWins > computerWins) {
         console.log(`Player wins! ${playerWins}-${computerWins}`);
     }
