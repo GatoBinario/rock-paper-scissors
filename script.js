@@ -77,9 +77,9 @@ function declareWinner(playerSelection, computerSelection) {
 }
 
 function game() {
-        let playerSelection ;
-        let computerSelection ;
-        console.log(declareWinner(playerSelection, computerSelection));
+    let playerSelection ;
+    let computerSelection ;
+    console.log(declareWinner(playerSelection, computerSelection));
     
     if (playerWins > computerWins) {
         console.log(`Player wins! ${playerWins}-${computerWins}`);
@@ -94,4 +94,19 @@ function game() {
 
 //Main
 let playerWins = computerWins = 0;
+let buttons = document.querySelectorAll(".option");
+let log = document.querySelector(".log")
+
+buttons.forEach(button => {
+    console.log(button.id);
+    button.addEventListener("click", () => {
+        if(playerWins > 4 || computerWins > 4) {
+            return;
+        }
+        log.innerHTML += `</br> ${declareWinner(button.id, getComputerSelection())} ${playerWins}-${computerWins}`
+        })
+});
+
+let button = document.querySelector()
+
 game();
