@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+button {
+    width: 70px;
+    height: 70px;    
+}
+
+.log {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
