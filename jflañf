@@ -1,0 +1,55 @@
+[33mcommit 516eb4ce178f98de0ee6247635bed035554904fc[m[33m ([m[1;36mHEAD -> [m[1;32mrps-ui[m[33m)[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Mon Aug 14 16:50:04 2023 +0200
+
+    Add UI logic
+
+[33mcommit 058af8484215f0aabf516b9565a651f20a2a1bf9[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Mon Aug 14 16:19:58 2023 +0200
+
+    Add styles to the site
+
+[33mcommit a874dbcdd39badff397e076c2b2143548dca4634[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Mon Aug 14 16:19:21 2023 +0200
+
+    Add html structure
+
+[33mcommit dd8f47ee16d96fe01a6d9b8aee1a7c6d67bfca0f[m[33m ([m[1;31morigin/rps-ui[m[33m)[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Fri Aug 11 14:22:58 2023 +0200
+
+    Add buttons and emojis
+
+[33mcommit 915172422ca84b1e2053a533d69fe8d2dede4d2e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Tue Jul 18 12:12:28 2023 +0200
+
+    Add game loop
+
+[33mcommit 2d171e247fa5edb990b7ca08b66128985e10c503[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Tue Jul 18 11:47:44 2023 +0200
+
+    Add getPlayerSelection and declareWinner
+
+[33mcommit 5e6e6c762e8f16b8a44fd106e5706c6bd55c0955[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Tue Jul 18 10:28:24 2023 +0200
+
+    Add README.md text and getComputerSelection
+
+[33mcommit 471d9a4c9204038cd6ff19f9f0ce72dec220aeb5[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Mon Jul 17 13:33:48 2023 +0200
+
+    Initial commit
+    
+    Add website structures files and README.md text
+
+[33mcommit 2270072aae657c9833bc6069d73dba250a8b12c2[m
+Author: GatoBinario <43298345+GatoBinario@users.noreply.github.com>
+Date:   Mon Jul 17 13:22:31 2023 +0200
+
+    Initial commit
